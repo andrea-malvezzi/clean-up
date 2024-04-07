@@ -1,2 +1,2 @@
 # clean-up
-A simple python script to clean up Downloads folder and the Bin.
+A simple python script to clean up the Downloads folder and the Bin.
